@@ -8,12 +8,12 @@ __pycache__/
 
 # Ignore large data files (CSMAR data)
 # Keep data/ directory structure but ignore large csv/xlsx inside
-data/*.csv
-data/*.xlsx
+# data/*.csv
+# data/*.xlsx
 # tfp_data/  <-- Commented out to allow tracking
-control_data_new/
-yzx_data/
-archive_v1/
+# control_data_new/
+# yzx_data/
+# archive_v1/
 
 # Ignore virtual environment
 .venv/
