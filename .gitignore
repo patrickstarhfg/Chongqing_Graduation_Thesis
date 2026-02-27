@@ -10,7 +10,7 @@ __pycache__/
 # Keep data/ directory structure but ignore large csv/xlsx inside
 data/*.csv
 data/*.xlsx
-tfp_data/
+# tfp_data/  <-- Commented out to allow tracking
 control_data_new/
 yzx_data/
 archive_v1/
